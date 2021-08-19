@@ -1,4 +1,4 @@
-FROM golang:1.9.2
+FROM golang:bullseye
 
 WORKDIR /go/src/github.com/github/linguist/tools/grammars
 
