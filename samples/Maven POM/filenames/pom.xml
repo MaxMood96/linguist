@@ -16,7 +16,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.7</java.version>
 		<junit.version>4.11</junit.version>
-		<slf4j.version>1.7.7</slf4j.version>
+		<slf4j.version>1.7.34</slf4j.version>
 		<log4j.version>1.2.17</log4j.version>
 
 		<spring.version>4.0.5.RELEASE</spring.version>
@@ -24,7 +24,7 @@
 		<cglib.version>2.1_3</cglib.version>
 
 		<mysql.version>5.1.31</mysql.version>
-		<hibernate.version>4.3.5.Final</hibernate.version>
+		<hibernate.version>5.1.17.Final</hibernate.version>
 		<hibernate-validator.version>5.1.1.Final</hibernate-validator.version>
 		<druid-version>1.0.6</druid-version>
 
